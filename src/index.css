@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700;800;900&display=swap');
+
+/* index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom overrides, if absolutely necessary */
+body {
+  @apply bg-white text-[#1D1D1D]; /* Tailwind utilities for consistency */
+}
+
+button {
+  /* Avoid conflicting with Tailwind; use only Tailwind classes in components */
+}

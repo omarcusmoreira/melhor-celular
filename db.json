@@ -1,0 +1,24 @@
+{
+  "phone": [
+    {
+      "id": "90a6",
+      "model": "iPhone 12 Pro Max 256Gb",
+      "price": 7000,
+      "brand": "Apple",
+      "startDate": "12/10/2019",
+      "endDate": "12/01/2020",
+      "color": "BRANCO",
+      "code": "12345678"
+    },
+    {
+      "id": "2891",
+      "model": "iPhone 16",
+      "price": 9000,
+      "brand": "Apple",
+      "startDate": "21/12/2024",
+      "endDate": "31/12/2024",
+      "color": "DOURADO",
+      "code": "1234567A"
+    }
+  ]
+}
